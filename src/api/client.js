@@ -1,6 +1,6 @@
 import axios from "axios";
 
-//export const API_BASE = import.meta.env.VITE_API_BASE || "https://adapted-nor-unlike-photographs.trycloudflare.com/api";
+//export const API_BASE = import.meta.env.VITE_API_BASE || "https://3-141-238-39.sslip.io/";
 
 export const API_BASE = import.meta.env.VITE_API_BASE || "http://127.0.0.1:8000/api";
 
